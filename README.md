@@ -62,8 +62,4 @@ This project was completed as part of the **IIT Madras Data Science Program** an
 
 ---
 
-## 🚀 How to Run the Project  
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/bank-telemarketing-success-prediction.git
-   cd bank-telemarketing-success-prediction
+
